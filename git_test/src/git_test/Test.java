@@ -2,5 +2,5 @@ package git_test;
 
 public class Test {
 // TestTEst
-//conflict
+// 로컬에서 변경함
 }
